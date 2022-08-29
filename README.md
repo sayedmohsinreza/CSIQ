@@ -6,7 +6,7 @@ The dataset contains synthesized code smells, issues, quality, and source code m
 
 Here  I shared the documentation explaining how to obtain the artifact package, how to unpack the artifact. 
 
-## how to obtain the artifact package
+## How to obtain the artifact package
 Identify the repositories and their link from Github that you want to mine issues
 For example: I will mine the following repositories
 1. https://github.com/spring-projects/spring-framework
@@ -14,7 +14,7 @@ For example: I will mine the following repositories
 ...
 
 
-###Issue Mining
+### Issue Mining
 Follow the steps for each repository. For example I want to it my no 1 repository: spring-framework
 Step 1: Visit the following URL https://www.smreza.com/projects/modelmine/issues.php 
 Step 2: paste the repository URL in the GitHub Link box
@@ -24,7 +24,7 @@ Step 5: Choose the motive. Motive is either export or analysis. In case of obtai
 Step 6: You can go to step 2 and put another repository and repeat step 3-6 to obtain artifacts for selected repositories. 
 
 
-## how to unpack the artifact
+## How to unpack the artifact
 
 Follow the steps for each repository. For example I want to it my no 1 repository: spring-framework
 Step 1: Download the zip of this repository or visit https://doi.org/10.17632/77p6rzb73n to download the data
@@ -32,7 +32,7 @@ Step 2: extract the zip file and locate the dataset folder.
 Step 3: Use this dataset folder as artifcat dataset in your programming in python or any other language.
 Step 4: Read all the csv files under issue folder. Asample code is provided in the following link: https://www.kaggle.com/code/saifuddinmahmud/git-issue
 
-## Where Issue can be obtained 
+## Where Issue dataset can be obtained 
 -  Download the zip of this repository from this link https://github.com/sayedmohsinreza/CSIQ/ or visit mendeley data https://doi.org/10.17632/77p6rzb73n to download the data
 -  No password is neccessary
 -  No Installation needed
